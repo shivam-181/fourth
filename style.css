@@ -1,0 +1,25 @@
+body,
+html{
+	width: 100%;
+	height: 100%;
+    font-family: 'Wittgenstein' , sans-serif;
+	background: url(bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+hr {
+    border-color: #F05F44;
+    height: 5px;    
+}
+h1{
+	font-family: 'Wittgenstein' , sans-serif;
+}
+.text-center:hover{
+    transform: scale(1.05);
+}
+.btn-primary{
+    background-color: #555555;
+    border-radius: 8px;
+}
